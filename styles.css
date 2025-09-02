@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+body {
+    font-family: 'Inter', 'Arial', sans-serif;
+    margin: auto;
+    background-image: url("back.png");
+    background-size: auto;
+}
+
+
+.title {
+    text-align: center;
+    margin-top: 400px;
+    /*margin: auto;*/
+}
+
+.list {
+    text-align: center;
+    margin-top: 50px;
+    /*margin: auto;*/
+}
+
+.links {
+    display: inline;
+}
+
+.link {
+
+    text-align: center;
+    margin: auto;
+    flex-direction: column;
+    margin-bottom: 1vh;
+}
